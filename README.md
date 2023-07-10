@@ -1,1 +1,1 @@
-# firsat-day-demo
+# first-day-demo
